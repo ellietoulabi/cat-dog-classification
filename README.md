@@ -1,6 +1,5 @@
 # Cat-Dog Classification
-Classification of  dog and cat images using NN and CNN
-
+Classification of  dog and cat images using NN and CNN. Original and preprocessed dataset: [DATASET](https://drive.google.com/drive/folders/1rb3F4dLlLAuvHXlGO0grO3XsaAkgYw0o?usp=sharing)
 
 
 ## Steps
