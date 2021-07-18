@@ -63,11 +63,3 @@ Classification of  dog and cat images using NN and CNN. Original and preprocesse
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-## Contact
-Find us at:
-* [Elaheh Toulabi Nejad](elitoulabin@gmail.com)
-* [Mohammad Mirsafaei](https://github.com/MohammadMirsafaei)
-
-
-
